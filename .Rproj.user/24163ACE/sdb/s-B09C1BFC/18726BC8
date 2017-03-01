@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1488107129982.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "18726BC8",
+    "lastKnownWriteTime" : 489626271855,
+    "last_content_update" : 1488107129982,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "EC530297",
+        "caption" : "BMI",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=BMI&cache_key=EC530297",
+        "displayedObservations" : 3,
+        "environment" : "",
+        "object" : "BMI",
+        "preview" : 0,
+        "totalObservations" : 3,
+        "variables" : 4
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
